@@ -1,6 +1,6 @@
 # Assignment_Snake3d_Shikhar
-
-My Game Link: https://gamerx-4def4.web.app/snake3d
+ 
+My Game Link: https://gamerx-4def4.web.app/snake3d   (only PC Webgame. Control from arrow keys. Controls are nor added for mobiles.)
 
 -- I have implemented all game's required fields. But Fruit data loading from external file can not be done. 
 -- So i normally created the Streak Functionality to the fruits. I was trying to do it from JSON file, but could not do to that.
